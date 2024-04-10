@@ -1,1 +1,1 @@
-0x12. JavaScript - Warm up
+Javascript - Objects, Scopes and and Closures
